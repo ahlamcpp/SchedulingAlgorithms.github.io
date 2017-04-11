@@ -1,1 +1,1 @@
-# SchedulingAlgorithms.github.io
+# Scheduling-Algorithms
